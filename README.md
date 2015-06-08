@@ -15,10 +15,10 @@
     </tr>
 
     <tr>
-        <td style="width:88px;">甘清甜</td>
-        <td style="width:128px;">数学之美</td>
-        <td style="width:328px;">一本让你相见恨晚的书。Bloom Filter、马尔科夫模型，余弦定理，都是你会收益终身的数学知识。</td>
-        <td style="width:118px;">✫✫✫✫</td>
+        <td>甘清甜</td>
+        <td>数学之美</td>
+        <td>一本让你相见恨晚的书。Bloom Filter、马尔科夫模型，余弦定理，都是你会收益终身的数学知识。</td>
+        <td>✫✫✫✫</td>
     </tr>
 	<tr>
         <td>甘清甜</td>
