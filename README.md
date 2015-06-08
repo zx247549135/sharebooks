@@ -98,4 +98,17 @@
         <td>✫✫✫✫</td>
     </tr>
 
+	<tr>
+        <td>赵新宇</td>
+        <td>Python cookbook</td>
+        <td>python 进阶必读</td>
+        <td>✫✫✫✫</td>
+    </tr>
+	<tr>
+        <td>赵新宇</td>
+        <td>乖，摸摸头</td>
+        <td>文艺青年装逼指南，阿弥陀佛么么哒</td>
+        <td>✫✫✫✫</td>
+    </tr>
+
     </table>
