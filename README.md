@@ -1,2 +1,12 @@
 # sharebooks
-Share books with others(just in SCTS/CGCL).
+
+云组图书馆(just in SCTS/CGCL).
+
+> 管长致辞：
+
+书目：
+
+|  所有者  |           书名   |         短评   |  星级   |
+| :-------- | :------------- |
+| 甘清甜    | 创京东     |   论“泡奶茶”的艺术  | ✫✫✫ |
+| 甘清甜    | 数学之美    |  好书            | ✫✫✫✫ |
