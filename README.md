@@ -11,7 +11,7 @@
         <th>所有者</th>
         <th>书名</th>
         <th>短评</th>
-        <th>星级</th>
+        <th>星级(Max:五星)</th>
     </tr>
 
     <tr>
@@ -32,7 +32,12 @@
         <td>倒排索引？分布式爬虫？PageRank？揭秘搜索引擎背后不为人知的秘密。</td>
         <td>✫✫✫✫✫</td>
     </tr>
-
+	<tr>
+        <td>甘清甜</td>
+        <td>创京东</td>
+        <td>学习如何泡“奶茶”</td>
+        <td>✫✫✫✫✫</td>
+    </tr>
     <tr>
         <td>樊浩</td>
         <td>张居正</td>
@@ -69,7 +74,12 @@
         <td>香港电影爱好研究者读了一定会有共鸣</td>
         <td>✫✫✫</td>
     </tr>
-
+    <tr>
+        <td>罗伟</td>
+        <td>魔鬼搭讪学</td>
+        <td>你懂的。</td>
+        <td>✫✫✫✫✫</td>
+    </tr>
    <tr>
         <td>赵伟</td>
         <td>C programming language</td>
@@ -162,5 +172,35 @@
         <td>人间失格</td>
         <td>深入剖析人性，带入感强者勿入</td>
         <td>✫✫✫</td>
+    </tr>
+	<td>王行军</td>
+		<td>大规模分布式存储系统</td>
+		<td>分布式存储系统入门，阿里OceanBase主创杨传辉力作</td>
+		<td>✫✫✫✫</td>
+	</tr>
+	<tr>
+		<td>王行军</td>
+		<td>Hadoop权威指南</td>
+		<td>Hadoop入门圣经</td>
+		<td>✫✫✫✫</td>
+	</tr>
+	<tr>
+		<td>王行军</td>
+		<td>Linux程序设计</td>
+		<td>Linux程序设计基本入门知识</td>
+		<td>✫✫✫</td>
+	</tr>
+
+	<tr>
+        <td>赵新宇</td>
+        <td>Python cookbook</td>
+        <td>python 进阶必读</td>
+        <td>✫✫✫✫</td>
+    </tr>
+	<tr>
+        <td>赵新宇</td>
+        <td>乖，摸摸头</td>
+        <td>文艺青年装逼指南，阿弥陀佛么么哒</td>
+        <td>✫✫✫✫</td>
     </tr>
 </table>
