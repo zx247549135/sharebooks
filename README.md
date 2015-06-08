@@ -103,6 +103,18 @@
 		<td>分布式存储系统入门，阿里OceanBase主创杨传辉力作</td>
 		<td>✫✫✫✫</td>
 	</tr>
+	<tr>
+		<td>王行军</td>
+		<td>Hadoop权威指南</td>
+		<td>Hadoop入门圣经</td>
+		<td>✫✫✫✫</td>
+	</tr>
+	<tr>
+		<td>王行军</td>
+		<td>Linux程序设计</td>
+		<td>Linux程序设计基本入门知识</td>
+		<td>✫✫✫</td>
+	</tr>
 
 	<tr>
         <td>赵新宇</td>
