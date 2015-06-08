@@ -11,28 +11,33 @@
         <th>所有者</th>
         <th>书名</th>
         <th>短评</th>
-        <th>星级</th>
+        <th>星级(Max:五星)</th>
     </tr>
 
     <tr>
         <td>甘清甜</td>
-        <td>数学之美</td>
+        <td>[数学之美](http://book.douban.com/subject/10750155/)</td>
         <td>一本让你相见恨晚的书。Bloom Filter、马尔科夫模型，余弦定理，都是你会收益终身的数学知识。</td>
         <td>✫✫✫✫</td>
     </tr>
 	<tr>
         <td>甘清甜</td>
-        <td>从0到1</td>
+        <td>[从0到1](http://book.douban.com/subject/26297606/)</td>
         <td>做一个时代的探险者，而非追随者。</td>
         <td>✫✫✫✫✫</td>
     </tr>
 	<tr>
         <td>甘清甜</td>
-        <td>这就是搜索引擎</td>
+        <td>[这就是搜索引擎](http://book.douban.com/subject/7006719/)</td>
         <td>倒排索引？分布式爬虫？PageRank？揭秘搜索引擎背后不为人知的秘密。</td>
         <td>✫✫✫✫✫</td>
     </tr>
-
+	<tr>
+        <td>甘清甜</td>
+        <td>[创京东](http://book.douban.com/subject/26400900/)</td>
+        <td>学习如何泡“奶茶”</td>
+        <td>✫✫✫✫✫</td>
+    </tr>
     <tr>
         <td>樊浩</td>
         <td>张居正</td>
@@ -69,5 +74,10 @@
         <td>香港电影爱好研究者读了一定会有共鸣</td>
         <td>✫✫✫</td>
     </tr>
-
+    <tr>
+        <td>罗伟</td>
+        <td>魔鬼搭讪学</td>
+        <td>你懂的。</td>
+        <td>✫✫✫✫✫</td>
+    </tr>
     </table>
